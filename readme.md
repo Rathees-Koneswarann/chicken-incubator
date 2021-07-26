@@ -45,7 +45,7 @@ Using hens for hatching eggs to produce chicken is not possible for a big requir
 
 **Block Diagram**
 
-![Getting started](source\images\block-diagam.png)
+![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/tree/main/source/images)
 
 **Circuit Diagram**
 
