@@ -53,7 +53,7 @@ Using hens for hatching eggs to produce chicken is not possible for a big requir
 
 **Print a plastic case for Thermostat**
 
-If you like to cover your thermostat, you can download the stl format file [here](source\stl-files). And print it in your 3D printer. Top side of your case will be like this image.
+If you like to cover your thermostat, you can download the stl format file [here](https://github.com/Rathees-Koneswarann/chicken-incubator/tree/main/source/stl-files). And print it in your 3D printer. Top side of your case will be like this image.
 
 ![Getting Started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/top-of-case.jpg)
 
