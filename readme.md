@@ -5,7 +5,7 @@ Published on 2021.07.23
 Author :-
 
  Rathees Koneswaran, Community maker at Dream Space Academy.
- Find me [here](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/readme.md)
+ Find me [here](https://github.com/Rathees-Koneswarann)
 
 Acknowledgment :-
 
@@ -45,23 +45,23 @@ Using hens for hatching eggs to produce chicken is not possible for a big requir
 
 **Block Diagram**
 
-![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/tree/main/source/images)
+![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/block-diagam.png)
 
 **Circuit Diagram**
 
-![Getting started](source\images\circuit-diagram.png)
+![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/circuit-diagram.png)
 
 **Print a plastic case for Thermostat**
 
 If you like to cover your thermostat, you can download the stl format file [here](source\stl-files). And print it in your 3D printer. Top side of your case will be like this image.
 
-![Getting Started](source\images\top-of-case.jpg)
+![Getting Started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/top-of-case.jpg)
 
 **Making incubator**
 
-![Getting started](source\images\inside-of-incubator.jpg)
+![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/inside-of-incubator.jpg)
 
-![Getting started](source\images\out-side-of-incubator.jpg)
+![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/out-side-of-incubator.jpg)
 
 You have to design a circuit like above and then take the thermocole box to fix components. You have to fix the light and fan inside of the thermocol box and fix the thermostat outside. After that make some holes in the walls of the thermocol box to manage air circulation in the box. Now your incubator is ready to use. Finally, set the temperature into 37.5 oC. set p0 as H and p1 as 0.5.( you can change if your need )
 
