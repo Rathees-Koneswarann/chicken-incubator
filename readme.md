@@ -1,4 +1,4 @@
-#**Chicken Incubator**
+#Chicken Incubator
 
 Published on 2021.07.23
 
@@ -13,13 +13,13 @@ Acknowledgment :-
 
  Kishoh Navaretnarjah , Co-founder and Director, DreamSpace Academy
 
-##**Abstract**
+##Abstract
 
 Chicken incubator is a device which is used for keeping eggs for hatching them.
 
 This project is to create a chicken incubator with electronic devices and some other parts. We can make a chicken incubator with only some basic knowledge in electronics and electricity.
 
-##**Introduction**
+##Introduction
 
 An incubator is a device simulating avian incubation by keeping eggs warm at a particular temperature range and in the correct humidity with a turning mechanism to hatch them. The common names of the incubator in other terms include breeding / hatching machines or hatchers, setters, and egg breeding / equipment.
 
@@ -27,11 +27,11 @@ In the current world, an increase in population needs a massive food supply as f
 
 In this project we are going to make a chicken incubator. This machine works in electricity and there is no need for a hen to hatch the eggs. So, we can hatch a big number of eggs in this machine at the same time and we can increase this number by expanding the size of the box.
 
-##**Problem Statement**
+##Problem Statement
 
 Using hens for hatching eggs to produce chicken is not possible for a big requirement in the market.
 
-##**Things need to make**
+##Things need to make
 
 * 1x thermocole box 20 liter
 * 1x Bulb holder
@@ -43,19 +43,19 @@ Using hens for hatching eggs to produce chicken is not possible for a big requir
 * 1x Disposable plastic bowls
 * 1x 3d printer
 
-##**Block Diagram**
+##Block Diagram
 
 <p align="center">
 <img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/block-diagam.png" width="400" height="300">
 </p>
 
-##**Circuit Diagram**
+##Circuit Diagram
 
 <p align="center">
 <img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/circuit-diagram.png" width="400" height="400">
 </p>
 
-##**Print a plastic case for Thermostat**
+##Print a plastic case for Thermostat
 
 If you like to cover your thermostat, you can download the stl format file [here](https://github.com/Rathees-Koneswarann/chicken-incubator/tree/main/source/stl-files). And print it in your 3D printer. Top side of your case will be like this image.
 
@@ -63,7 +63,7 @@ If you like to cover your thermostat, you can download the stl format file [here
 <img src = "https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/top-of-case.jpg" width="400" height="400">
 <p align="center">
  
-##**Making incubator**
+##Making incubator
 <p>
 <img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/inside-of-incubator.jpg" width="400" height = "300" align="right">
 
@@ -72,7 +72,7 @@ If you like to cover your thermostat, you can download the stl format file [here
 
 You have to design a circuit like above and then take the thermocole box to fix components. You have to fix the light and fan inside of the thermocol box and fix the thermostat outside. After that make some holes in the walls of the thermocol box to manage air circulation in the box. Now your incubator is ready to use. Finally, set the temperature into 37.5 oC. set p0 as H and p1 as 0.5.( you can change if your need )
 
-##**How to use Thermostat**
+##How to use Thermostat
 
 DESCRIPTION:
 
@@ -88,7 +88,7 @@ configuring various parameters including on & off trigger temperatures. The on b
 
 switch up to a maximum of 240V AC at 5A or 14V DC at 10A. The current temperature is displayed in degrees Centigrade via its 3 digit seven segment display and the current relay state by an on board LED. 
 
-##**SPECIFICATION:**
+###SPECIFICATION:
 
 * Temperature Control Range: -50 ~ 110 C
 * Resolution at -9.9 to 99.9: 0.1 C
@@ -104,16 +104,16 @@ switch up to a maximum of 240V AC at 5A or 14V DC at 10A. The current temperatur
 * Static Current: &lt;=35mA
 * Current: &lt;=65mA
 
-##**Environmental Requirements:**
+###Environmental Requirements:
 
 * Temperature: -10 ~ 60 C
 * Humidity: 20-85%
 
-##**Dimensions:**
+###Dimensions:
 
 * 48mm x 40mm x 14mm
 
-##**Settings Chart:**
+###Settings Chart:
 
 * Long press the “SET” button to activate the menu.
 * Code Description Range Default Value
@@ -126,19 +126,19 @@ switch up to a maximum of 240V AC at 5A or 14V DC at 10A. The current temperatur
 * P6 High Temperature Alarm 0-110 OFF
 * Long pressing +- will reset all values to their default
 
-##**Displaying the current temperature:**
+###Displaying the current temperature:
 
 * The thermostat will display the current temperature in oC by default. When in any other mode making no input for approximately 5 seconds will cause the thermostat to return to this default display.
 
-##**Setting the trigger temperature:**
+###Setting the trigger temperature:
 
 * To set the trigger temperature press the button marked 'SET'. The seven segment display will flash.You can now set a trigger temperature (in oC) using the '+' and '-' buttons in 0.1 degree increments. If no buttons are pressed for approximately 2 seconds the trigger temperature will be stored and the display will return back to the current temperature.
 
-##**Setting the parameters:**
+###Setting the parameters:
 
 * To set any parameter, first long press the 'SET' button for at least 5 seconds. The seven segment display should now display 'P0'. This represents parameter P0. Pressing the '+' or '-' buttons will cycle through the various parameters (P0 to P6). Pressing the 'SET' button whilst any of these parameters are displayed will allow you to change the value for that parameter using the '+' and '-' buttons. When finished setting a parameter press the set button to exit that option. If no buttons are pressed for approximately 5 seconds the thermostat will exit the parameter options and will return back to the default temperature display.
 
-##**Setting the cooling or heating parameter P0:**
+###Setting the cooling or heating parameter P0:
 
 * The parameter P0 has two settings, C and H. When set to C (default) the relay will energise when the temperature is reached. Use this setting if connecting to an air-conditioning system. When set to H the relay will de-energise when the temperature is reached. Use this setting if controlling a heating device.
 
