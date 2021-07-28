@@ -64,11 +64,14 @@ If you like to cover your thermostat, you can download the stl format file [here
 <p align="center">
  
 ## Making incubator
-<p>
-<img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/inside-of-incubator.jpg" width="400" height = "300" align="center">
-
-<img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/out-side-of-incubator.jpg" width="400" height="300" align="center">
-</p>
+<div class="row">
+ <div class="column">
+  <img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/inside-of-incubator.jpg" width="400" height = "300">
+ </div>
+ <div class="column">
+  <img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/out-side-of-incubator.jpg" width="400" height="300" align="center">
+ </div>
+</div>
 
 <p>
 You have to design a circuit like above and then take the thermocole box to fix components. You have to fix the light and fan inside of the thermocol box and fix the thermostat outside. After that make some holes in the walls of the thermocol box to manage air circulation in the box. Now your incubator is ready to use. Finally, set the temperature into 37.5 oC. set p0 as H and p1 as 0.5.( you can change if your need )
