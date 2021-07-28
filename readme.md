@@ -83,7 +83,7 @@ You have to design a circuit like above and then take the thermocole box to fix 
 
 DESCRIPTION:
 
-<p align="text-aligh:center">
+<p align="center">
 The W1209 is an incredibly low cost yet highly functional thermostat controller. With this module you can intelligently control power to most types of electrical device based on the temperature sensed by the included high accuracy NTC temperature sensor. Although this module has an embedded microcontroller no programming knowledge is required. 3 tactile switches allow for configuring various parameters including on & off trigger temperatures. The on board relay can switch up to a maximum of 240V AC at 5A or 14V DC at 10A. The current temperature is displayed in degrees Centigrade via its 3 digit seven segment display and the current relay state by an on board LED. 
 </p>
 
