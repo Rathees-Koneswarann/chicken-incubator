@@ -59,7 +59,7 @@ If you like to cover your thermostat, you can download the stl format file [here
 
 **Making incubator**
 
-![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/inside-of-incubator.jpg = 300x200)
+![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/inside-of-incubator.jpg =300x200)
 
 ![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/out-side-of-incubator.jpg)
 
