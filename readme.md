@@ -76,7 +76,7 @@ If you like to cover your thermostat, you can download the stl format file [here
 </p>
  
 <p align="justify">
-You have to design a circuit like above and then take the thermocole box to fix components. You have to fix the light and fan inside of the thermocol box and fix the thermostat outside. After that make some holes in the walls of the thermocol box to manage air circulation in the box. Now your incubator is ready to use. Finally, set the temperature into 37.5 oC. set p0 as H and p1 as 0.5.( you can change if your need )
+You have to design a circuit like above and then take the thermocole box to fix components. You have to fix the light and fan inside of the thermocol box and fix the thermostat outside. After that make some holes in the walls of the thermocol box to manage air circulation in the box. Now your incubator is ready to use. Finally, set the temperature into 37.5 <sup> o </sup> C. set p0 as H and p1 as 0.5.( you can change if your need )
 </p>
  
 ## How to use Thermostat
@@ -89,11 +89,11 @@ The W1209 is an incredibly low cost yet highly functional thermostat controller.
 
 ### SPECIFICATION:
 
-* Temperature Control Range: -50 ~ 110 C
+* Temperature Control Range: -50 ~ 110 <sup> o </sup>C
 * Resolution at -9.9 to 99.9: 0.1 C
-* Resolution at all other temperatures: 1 C
-* Measurement Accuracy: 0.1 C
-* Control Accuracy: 0.1 C
+* Resolution at all other temperatures: 1 <sup> o </sup>C
+* Measurement Accuracy: 0.1 <sup> o </sup>C
+* Control Accuracy: 0.1 <sup> o </sup>C
 * Refresh Rate: 0.5 Seconds
 * Input Power (DC): 12V
 * Measuring Inputs: NTC (10K 0.5%)
@@ -105,7 +105,7 @@ The W1209 is an incredibly low cost yet highly functional thermostat controller.
 
 ### Environmental Requirements:
 
-* Temperature: -10 ~ 60 C
+* Temperature: -10 ~ 60 <sup> o </sup>C
 * Humidity: 20-85%
 
 ### Dimensions:
@@ -127,12 +127,12 @@ The W1209 is an incredibly low cost yet highly functional thermostat controller.
 
 ### Displaying the current temperature:
 
-* The thermostat will display the current temperature in oC by default. When in any other mode making no input for approximately 5 seconds will cause the thermostat to return to this default display.
+* The thermostat will display the current temperature in <sup> o </sup>C by default. When in any other mode making no input for approximately 5 seconds will cause the thermostat to return to this default display.
 
 ### Setting the trigger temperature:
 
 <p align="justify">
-* To set the trigger temperature press the button marked 'SET'. The seven segment display will flash.You can now set a trigger temperature (in oC) using the '+' and '-' buttons in 0.1 degree increments. If no buttons are pressed for approximately 2 seconds the trigger temperature will be stored and the display will return back to the current temperature.
+* To set the trigger temperature press the button marked 'SET'. The seven segment display will flash.You can now set a trigger temperature (in <sup> o </sup>C) using the '+' and '-' buttons in 0.1 degree increments. If no buttons are pressed for approximately 2 seconds the trigger temperature will be stored and the display will return back to the current temperature.
 </p>
 
 ### Setting the parameters:
@@ -150,6 +150,6 @@ The W1209 is an incredibly low cost yet highly functional thermostat controller.
 ## Setting the hysteresis parameter P1:
 
 <p align="justify">
-* This sets how much change in temperature must occur before the relay will change state. For example if set to the default 2oC and the trigger temperature has been set to 25oC, it will not deenergise until the temperature falls back below below 23oC. Setting this hysteresis helps stop the thermostat from continually triggering when the temperature drifts around the trip temperature.
+* This sets how much change in temperature must occur before the relay will change state. For example if set to the default 2oC and the trigger temperature has been set to 25<sup> o </sup>C, it will not deenergise until the temperature falls back below below 23<sup> o </sup>C. Setting this hysteresis helps stop the thermostat from continually triggering when the temperature drifts around the trip temperature.
  </p>
 
