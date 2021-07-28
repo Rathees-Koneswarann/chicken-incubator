@@ -70,23 +70,15 @@ If you like to cover your thermostat, you can download the stl format file [here
 <img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/out-side-of-incubator.jpg" width="400" height="300" align="left">
 </p>
 
+<p>
 You have to design a circuit like above and then take the thermocole box to fix components. You have to fix the light and fan inside of the thermocol box and fix the thermostat outside. After that make some holes in the walls of the thermocol box to manage air circulation in the box. Now your incubator is ready to use. Finally, set the temperature into 37.5 oC. set p0 as H and p1 as 0.5.( you can change if your need )
-
+</p>
+ 
 ## How to use Thermostat
 
 DESCRIPTION:
 
-The W1209 is an incredibly low cost yet highly functional thermostat controller. With this module
-
-you can intelligently control power to most types of electrical device based on the temperature
-
-sensed by the included high accuracy NTC temperature sensor. Although this module has an
-
-embedded microcontroller no programming knowledge is required. 3 tactile switches allow for
-
-configuring various parameters including on & off trigger temperatures. The on board relay can
-
-switch up to a maximum of 240V AC at 5A or 14V DC at 10A. The current temperature is displayed in degrees Centigrade via its 3 digit seven segment display and the current relay state by an on board LED. 
+The W1209 is an incredibly low cost yet highly functional thermostat controller. With this module you can intelligently control power to most types of electrical device based on the temperature sensed by the included high accuracy NTC temperature sensor. Although this module has anembedded microcontroller no programming knowledge is required. 3 tactile switches allow for configuring various parameters including on & off trigger temperatures. The on board relay can switch up to a maximum of 240V AC at 5A or 14V DC at 10A. The current temperature is displayed in degrees Centigrade via its 3 digit seven segment display and the current relay state by an on board LED. 
 
 ### SPECIFICATION:
 
