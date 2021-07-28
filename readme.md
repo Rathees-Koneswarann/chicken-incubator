@@ -45,7 +45,7 @@ Using hens for hatching eggs to produce chicken is not possible for a big requir
 
 **Block Diagram**
 
-![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/block-diagam.png)
+<img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/block-diagam.png" width="400" height="300"
 
 **Circuit Diagram**
 
@@ -59,9 +59,9 @@ If you like to cover your thermostat, you can download the stl format file [here
 
 **Making incubator**
 
-<img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/inside-of-incubator.jpg" width="300" height = "200">
+<img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/inside-of-incubator.jpg" width="400" height = "300">
 
-![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/out-side-of-incubator.jpg)
+<img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/out-side-of-incubator.jpg" width="400" height="300">
 
 You have to design a circuit like above and then take the thermocole box to fix components. You have to fix the light and fan inside of the thermocol box and fix the thermostat outside. After that make some holes in the walls of the thermocol box to manage air circulation in the box. Now your incubator is ready to use. Finally, set the temperature into 37.5 oC. set p0 as H and p1 as 0.5.( you can change if your need )
 
