@@ -44,8 +44,9 @@ Using hens for hatching eggs to produce chicken is not possible for a big requir
 * 1x 3d printer
 
 **Block Diagram**
-
+<p align="center">
 <img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/block-diagam.png" width="400" height="300">
+</p>
 
 **Circuit Diagram**
 
