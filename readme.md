@@ -64,11 +64,11 @@ If you like to cover your thermostat, you can download the stl format file [here
 <p align="center">
  
 ## Making incubator
-<div class="row">
- <div class="column">
+<div class="column">
+ <div class="row">
   <img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/inside-of-incubator.jpg" width="400" height = "300">
  </div>
- <div class="column">
+ <div class="row">
   <img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/out-side-of-incubator.jpg" width="400" height="300" align="center">
  </div>
 </div>
