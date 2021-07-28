@@ -45,11 +45,11 @@ Using hens for hatching eggs to produce chicken is not possible for a big requir
 
 **Block Diagram**
 
-<img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/block-diagam.png" width="400" height="300"
+<img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/block-diagam.png" width="400" height="300">
 
 **Circuit Diagram**
 
-![Getting started](https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/circuit-diagram.png)
+<img src="https://github.com/Rathees-Koneswarann/chicken-incubator/blob/main/source/images/circuit-diagram.png" width="400" height="400">
 
 **Print a plastic case for Thermostat**
 
